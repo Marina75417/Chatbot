@@ -30,17 +30,18 @@ var callback = () => api.sendMessage({body:` ╾━╤デ╦︻(▀̿Ĺ̯▀̿ �
 
 ☄️Bot Name︎︎︎☄️  ${global.config.BOTNAME}
 
-🔥Bot Admin🔥☞︎︎︎☜︎︎︎✰ 𝐂𝐇𝐔𝐙𝐀🥀
+🔥Bot Admin: 𓅋 ⃝« ❰ 𝑴𝑨𝑹𝑰𝑵𝑨𝐱͜͡⃝ᴆ ※̞̏❱ ͟𓃮
 
-🙈bot andmin owner facebook id link🙈➪ https://www.facebook 💞🕊️
 
-👋For Any Kind Of Help Contact On Telegram  Username 👉 𝐂𝐇𝐔𝐙𝐀😇
+🙈bot andmin owner facebook id link🙈➪ https://www.facebook.com/gamerqueen3632" 💞🕊️
+
+👋For Any Kind Of Help Contact On Telegram  Username 👉 𓅋 ⃝« ❰ 𝑴𝑨𝑹𝑰𝑵𝑨𝐱͜͡⃝ᴆ ※̞̏❱ ͟𓃮😇
 
 ✧══════•❁❀❁•══════✧
 
 🌸Bot Prefix🌸☞︎︎︎☜︎︎︎✰ ${global.config.PREFIX}
 
-♥️Bot Owner♥️ ☞︎︎︎𝐂𝐇𝐔𝐙𝐀☜︎︎︎✰ 
+♥️Bot Owner♥️  𓅋 ⃝« ❰ 𝑴𝑨𝑹𝑰𝑵𝑨𝐱͜͡⃝ᴆ ※̞̏❱ ͟𓃮
 
 🥳UPTIME🥳
 
